@@ -50,7 +50,6 @@
 
 - 🌐 Portfolio: [brijeshjena.github.io/Portfolio](https://brijeshjena.github.io/Portfolio/)
 - 💼 LinkedIn: [linkedin.com/in/brijeshjena](https://linkedin.com/in/brijeshjena)
-- 🐦 Twitter: [@BrijeshJena_](https://twitter.com/BrijeshJena_)
 
 ---
 
