@@ -30,4 +30,7 @@ const myStack = {
 };
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=brijeshjena&show_icons=true&theme=tokyonight" alt="Brijesh's GitHub stats" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=brijeshjena&theme=tokyonight" alt="Brijesh's GitHub streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshjena&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
+<p align="center"><div>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=brijeshjena&show_icons=true&theme=tokyonight" alt="Brijesh's GitHub stats" />
+</div>  </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=brijeshjena&theme=tokyonight" alt="Brijesh's GitHub streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshjena&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
