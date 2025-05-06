@@ -28,3 +28,6 @@ const myStack = {
   testing: ['Jest', 'React Testing Library'],
   tools: ['Git', 'VS Code', 'Vercel', 'Netlify']
 };
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=brijeshjena&show_icons=true&theme=tokyonight" alt="Brijesh's GitHub stats" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=brijeshjena&theme=tokyonight" alt="Brijesh's GitHub streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshjena&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
