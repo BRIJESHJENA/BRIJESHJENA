@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Brijesh Jena</h1>
+<h3 align="center">🚀 Frontend Developer | UI Enthusiast | React Wizard from Bangalore</h3>
 
-<!--
-**BRIJESHJENA/BRIJESHJENA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🙋‍♂️ About Me
+
+- 🧑‍💻 I’m a **Frontend Developer** with 2+ years of experience building delightful UIs with **React**, **TypeScript**, **MUI**, and **Firebase**.
+- 🎨 I've designed and developed **20+ reusable components**, from complex form builders to drag-and-drop task boards.
+- 📊 I love visualizing data using **amCharts 5** and creating sleek dashboards.
+- 🧠 I enjoy reducing **code complexity** and increasing **readability** for better team collaboration.
+- 🛠️ I work closely with tools like **Redux**, **SonarQube**, **Jira**, and **Figma**.
+- 🚀 Currently exploring: **Next.js**, **Redux-Saga**, **React Query**, and **how frontend magic happens at Figma**.
+
+---
+
+### 🧰 Tech Toolbox
+const myStack = {
+  language: ['JavaScript', 'TypeScript'],
+  framework: ['React.js', 'Next.js (learning)'],
+  stateManagement: ['Redux', 'Context API'],
+  design: ['Material UI', 'Figma'],
+  backend: ['Firebase Firestore'],
+  testing: ['Jest', 'React Testing Library'],
+  tools: ['Git', 'VS Code', 'Vercel', 'Netlify']
+};
