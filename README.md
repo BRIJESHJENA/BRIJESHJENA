@@ -1,36 +1,59 @@
 <h1 align="center">Hi 👋, I'm Brijesh Jena</h1>
-<h3 align="center">🚀 Frontend Developer | UI Enthusiast | React Wizard from Bangalore</h3>
+<h3 align="center">Frontend Developer | UI/UX Enthusiast | React & TypeScript Specialist</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif">
+  <a href="https://brijeshjena.github.io/Portfolio/">
+    <img src="https://brijeshjena.github.io/Portfolio/assets/profile-pic.png" alt="Brijesh Jena" width="200" />
+  </a>
 </p>
 
 ---
 
-### 🙋‍♂️ About Me
+### 🧑‍💻 About Me
 
-- 🧑‍💻 I’m a **Frontend Developer** with 2+ years of experience building delightful UIs with **React**, **TypeScript**, **MUI**, and **Firebase**.
-- 🎨 I've designed and developed **20+ reusable components**, from complex form builders to drag-and-drop task boards.
-- 📊 I love visualizing data using **amCharts 5** and creating sleek dashboards.
-- 🧠 I enjoy reducing **code complexity** and increasing **readability** for better team collaboration.
-- 🛠️ I work closely with tools like **Redux**, **SonarQube**, **Jira**, and **Figma**.
-- 🚀 Currently exploring: **Next.js**, **Redux-Saga**, **React Query**, and **how frontend magic happens at Figma**.
+- 🔭 I’m a **Frontend Developer** with a passion for crafting intuitive and dynamic user interfaces.
+- 🌱 Currently exploring advanced concepts in **Next.js**, **Redux-Saga**, and **React Query**.
+- 💬 Ask me about **React**, **TypeScript**, **Material UI**, and **Firebase**.
+- 📫 Reach me at: [brijeshjena@example.com](mailto:brijeshjena@example.com)
+- ⚡ Fun fact: I enjoy dissecting complex UI problems and turning them into elegant solutions.
 
 ---
 
-### 🧰 Tech Toolbox
-const myStack = {
-  language: ['JavaScript', 'TypeScript'],
-  framework: ['React.js', 'Next.js (learning)'],
-  stateManagement: ['Redux', 'Context API'],
-  design: ['Material UI', 'Figma'],
-  backend: ['Firebase Firestore'],
-  testing: ['Jest', 'React Testing Library'],
-  tools: ['Git', 'VS Code', 'Vercel', 'Netlify']
-};
+### 🛠️ Technologies & Tools
 
-📊 GitHub Stats
-<p align="center"><div>
+- **Languages:** JavaScript, TypeScript
+- **Frameworks/Libraries:** React.js, Next.js, Redux, Redux-Saga
+- **UI/UX:** Material UI, Figma
+- **Backend:** Firebase Firestore
+- **Testing:** Jest, React Testing Library
+- **Tools:** Git, VS Code, Vercel, Netlify
 
-  <img src="https://github-readme-stats.vercel.app/api?username=brijeshjena&show_icons=true&theme=tokyonight" alt="Brijesh's GitHub stats" />
-</div>  </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=brijeshjena&theme=tokyonight" alt="Brijesh's GitHub streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshjena&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brijeshjena&show_icons=true&theme=default" alt="Brijesh's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshjena&theme=default" alt="Brijesh's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshjena&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+- 🌐 Portfolio: [brijeshjena.github.io/Portfolio](https://brijeshjena.github.io/Portfolio/)
+- 💼 LinkedIn: [linkedin.com/in/brijeshjena](https://linkedin.com/in/brijeshjena)
+- 🐦 Twitter: [@BrijeshJena_](https://twitter.com/BrijeshJena_)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&center=true&width=435&lines=Frontend+Developer;React+Enthusiast;UI/UX+Designer;Lifelong+Learner" alt="Typing SVG" />
+</p>
